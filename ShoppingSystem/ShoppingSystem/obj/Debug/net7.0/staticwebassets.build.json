@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "RcnglaVOwXrQg9sRLwnjZiescHPiBT7MUnUlYBExjsE=",
+  "Source": "ShoppingSystem",
+  "BasePath": "_content/ShoppingSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShoppingSystem\\wwwroot",
+      "Source": "ShoppingSystem",
+      "ContentRoot": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\",
+      "BasePath": "_content/ShoppingSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\images\\1.PNG",
+      "SourceId": "ShoppingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\",
+      "BasePath": "_content/ShoppingSystem",
+      "RelativePath": "images/1.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.PNG"
+    },
+    {
+      "Identity": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\images\\7898.PNG",
+      "SourceId": "ShoppingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\",
+      "BasePath": "_content/ShoppingSystem",
+      "RelativePath": "images/7898.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7898.PNG"
+    },
+    {
+      "Identity": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\images\\989.PNG",
+      "SourceId": "ShoppingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\",
+      "BasePath": "_content/ShoppingSystem",
+      "RelativePath": "images/989.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\989.PNG"
+    },
+    {
+      "Identity": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\images\\jkd.PNG",
+      "SourceId": "ShoppingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI\\Task\\Task\\Shopping System\\ShoppingSystem\\ShoppingSystem\\wwwroot\\",
+      "BasePath": "_content/ShoppingSystem",
+      "RelativePath": "images/jkd.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jkd.PNG"
+    }
+  ]
+}
